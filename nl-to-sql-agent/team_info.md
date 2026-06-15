@@ -1,6 +1,6 @@
 # Team Information
 
-**Team Name:** [Enter Team Name Here, e.g. SQL Pioneers]  
+**Team Name:**  SQL Pioneers  
 **Project Title:** NL-to-SQL Analytics Agent  
 **Use Case Category:** Data Engineering  
 
@@ -9,26 +9,26 @@
 ## Team Members & Details
 
 ### Member 1 (Team Lead)
-- **Name:** [Enter Member 1 Name]
+- **Name:** P.Guru sai tejaswini
 - **Role:** UI Development & Streamlit Flow
-- **Email:** [Enter Member 1 Email]
-- **GitHub Username:** [Enter Member 1 GitHub Username]
+- **Email:** gurusaitejaswinipagidi@gmail.com
+- **GitHub Username:** gurusaitejaswinipagidi@gmail.com
 - **Academic Scores:**
-  - **10th Class Percentage/CGPA:** [e.g. 92% or 9.5 CGPA]
-  - **12th Class Percentage:** [e.g. 89%]
-  - **UG (Undergraduate) CGPA/Percentage:** [e.g. 8.5 CGPA]
-- **Resume File:** [resumes/member1_resume.pdf](file:///C:/Users/ANIKET/Downloads/nl-to-sql-agent/nl-to-sql-agent/resumes/member1_resume.pdf) (Update filename accordingly)
+  - **10th Class Percentage/CGPA:** 100%
+  - **12th Class Percentage:** 96%
+  - **UG (Undergraduate) CGPA/Percentage:** 9.31
+- **Resume File:** ![alt text](<teju resume.pdf.jpeg>)
 
 ### Member 2
-- **Name:** [Enter Member 2 Name]
+- **Name:** Noor Basha Sajiya
 - **Role:** Python Backend Logic & Database Execution
-- **Email:** [Enter Member 2 Email]
-- **GitHub Username:** [Enter Member 2 GitHub Username]
+- **Email:** noorsajiya300@gmail.com
+- **GitHub Username:** noorsajiya300-jpg
 - **Academic Scores:**
-  - **10th Class Percentage/CGPA:** [e.g. 90%]
-  - **12th Class Percentage:** [e.g. 88%]
-  - **UG CGPA/Percentage:** [e.g. 8.2 CGPA]
-- **Resume File:** [resumes/member2_resume.pdf](file:///C:/Users/ANIKET/Downloads/nl-to-sql-agent/nl-to-sql-agent/resumes/member2_resume.pdf)
+  - **10th Class Percentage/CGPA:** 98%
+  - **12th Class Percentage:**82.24%
+   - **UG CGPA/Percentage:** 9.36
+- **Resume File:** 
 
 ### Member 3
 - **Name:** [Enter Member 3 Name]
@@ -39,7 +39,7 @@
   - **10th Class Percentage/CGPA:** [e.g. 95%]
   - **12th Class Percentage:** [e.g. 91%]
   - **UG CGPA/Percentage:** [e.g. 8.9 CGPA]
-- **Resume File:** [resumes/member3_resume.pdf](file:///C:/Users/ANIKET/Downloads/nl-to-sql-agent/nl-to-sql-agent/resumes/member3_resume.pdf)
+- **Resume File:** 
 
 ### Member 4 (Optional)
 - **Name:** [Enter Member 4 Name]
@@ -50,4 +50,4 @@
   - **10th Class Percentage/CGPA:** [e.g. 88%]
   - **12th Class Percentage:** [e.g. 85%]
   - **UG CGPA/Percentage:** [e.g. 8.0 CGPA]
-- **Resume File:** [resumes/member4_resume.pdf](file:///C:/Users/ANIKET/Downloads/nl-to-sql-agent/nl-to-sql-agent/resumes/member4_resume.pdf)
+- **Resume File:** 
