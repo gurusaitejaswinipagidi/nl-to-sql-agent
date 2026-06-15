@@ -28,7 +28,7 @@
   - **10th Class Percentage/CGPA:** 98%
   - **12th Class Percentage:**82.24%
    - **UG CGPA/Percentage:** 9.36
-- **Resume File:** 
+- **Resume File:** https://drive.google.com/file/d/1713hwlfgYcghJy522M0pmul_zQIa7pXO/view?usp=drivesdk
 
 ### Member 3
 - **Name:** [Enter Member 3 Name]
